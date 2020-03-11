@@ -2,7 +2,7 @@
   "name": "screen-recorder",
   "version": "1.0.0",
   "description": "screen recordering electron",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron ."
   },
