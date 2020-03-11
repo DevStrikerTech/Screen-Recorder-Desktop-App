@@ -4,9 +4,13 @@
 ![alt text](https://raw.githubusercontent.com/KingCobra2018/Screen-Recorder-Desktop-App/master/Demo.png)
 
 ## Installation
-
+```node
+npm install --save-dev electron
+```
 ## Usage
-
+```node
+npm start
+```
 ## Documentation
 https://www.electronjs.org/docs
 
