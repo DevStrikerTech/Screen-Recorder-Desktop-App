@@ -11,7 +11,7 @@ const recordedChunks = [];
 const videoElement = document.querySelector('video');
 const startBtn = document.getElementById('startBtn');
 startBtn.onclick = e => {
-    mediaRecorder.start();
+    mediaRecorder.start(0);
     startBtn.classList.add('is-danger');
     startBtn.innerText = 'Recording';
   };
